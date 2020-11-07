@@ -1,0 +1,6 @@
+module.exports.create = require('./create')
+module.exports.find = require('./find')
+module.exports.findOne = require('./findOne')
+module.exports.message = require('./message')
+module.exports.saveToGooglePay = require('./saveToGooglePay')
+module.exports.updateOne = require('./updateOne')

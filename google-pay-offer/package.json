@@ -1,0 +1,14 @@
+{
+  "name": "googlepay-offer",
+  "author": "",
+  "description": "",
+  "license": "UNLICENSED",
+  "main": "index.js",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "google-auth-library": "^5.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "randomatic": "^3.1.1"
+  }
+}
